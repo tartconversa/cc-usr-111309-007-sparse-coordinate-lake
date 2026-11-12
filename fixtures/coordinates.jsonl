@@ -1,0 +1,4 @@
+{"coordinate": [0, 0], "value": 0, "revision": 1, "tombstone": false}
+{"coordinate": [0, 1], "value": null, "revision": 1, "tombstone": false}
+{"coordinate": [2, 4], "value": 7, "revision": 1, "tombstone": false}
+{"coordinate": [2, 4], "value": 8, "revision": 2, "tombstone": false}

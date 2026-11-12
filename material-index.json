@@ -1,0 +1,12 @@
+[
+  {
+    "path": "fixtures/coordinates.jsonl",
+    "sha256": "a2913240ae3647c11c80528083b8bc47acbd50008f22eaebbd3785a341aab9e5",
+    "size_bytes": 283
+  },
+  {
+    "path": "fixtures/tensor.json",
+    "sha256": "81116e712620b93cccef7db76f1d0e1aa163cd5a4be800e74b4ddd9b7a9d892e",
+    "size_bytes": 360
+  }
+]

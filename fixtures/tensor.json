@@ -1,0 +1,34 @@
+{
+  "axes": [
+    "device",
+    "tick"
+  ],
+  "shape": [
+    3,
+    5
+  ],
+  "chunk_shape": [
+    2,
+    3
+  ],
+  "rechunk_shape": [
+    1,
+    2
+  ],
+  "window": {
+    "lower": [
+      0,
+      0
+    ],
+    "upper": [
+      3,
+      5
+    ]
+  },
+  "offset_order": "row_major",
+  "state_encoding": [
+    "absent",
+    "present_null",
+    "present_value"
+  ]
+}
